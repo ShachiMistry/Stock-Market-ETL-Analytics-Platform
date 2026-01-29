@@ -119,5 +119,3 @@ It emphasizes the **reliability** and **usability** of data rather than just raw
 - **Working with time-series data at scale**
 - **Designing datasets for analytics, modeling, and decision making**
 
----
-*Created by [Shachi Mistry](https://github.com/ShachiMistry)*
