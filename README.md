@@ -108,9 +108,16 @@ It emphasizes the **reliability** and **usability** of data rather than just raw
    - Create a `.env` file based on `.env.example`.
    - Add your Database credentials and API keys.
 
-5. **Run the ETL Pipeline**
+
+5. **Run the ETL Pipeline (Backend)**
    ```bash
    python src/main.py
+   ```
+
+6. **Launch the Analytics Dashboard (Frontend)**
+   Visualization of the data and metrics is available via Streamlit:
+   ```bash
+   python -m streamlit run src/dashboard.py
    ```
 
 ## 👨‍💻 What This Project Demonstrates (For Recruiters)
